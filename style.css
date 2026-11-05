@@ -5,11 +5,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .avatar-resmi {
-    width: 175px;   /* Resmin genişliğini belirler (küçük olması için) */
-    height: auto;  /* Orantıyı korur */
-    border-radius: 50%; /* Resmi yuvarlak yapar (isteğe bağlı) */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Hafif gölge ekler */
-    transition: transform 0.3s ease; /* Efekt için geçiş */
+    width: 175px;
+    height: auto;
+    border-radius: 90%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 body {
